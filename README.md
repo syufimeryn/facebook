@@ -33,6 +33,7 @@ python run.py
 ```
 
 <i>TERIMAKASIH DAN SEMOGA BERUNTUNG</i> 
+<i>yoshii xhurayra | xtc code team</i> 😊
 </div>
 
 <div align="center">

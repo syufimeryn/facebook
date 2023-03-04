@@ -1,14 +1,42 @@
-### Sebuah tools buat ngeheker akun efbih
-```
-up by yoshii xhurayra
-create oleh nazri xd pacar aang gemoy
+<div align="center">
+<h2> 𝐇𝐀𝐋𝐋𝐎 𝐒𝐄𝐋𝐀𝐌𝐀𝐓 𝐃𝐀𝐓𝐀𝐍𝐆 𝐍𝐆𝐄𝐍𝐓𝐎𝐃</h2>
+</div>
 
-XTC • CodeTeam
-wangsaf gw klo mau ikut grup xtc 083125837776
+<div align="center" width="50">
+
+<img src="https://e.top4top.io/p_2619jk9hj1.gif" alt="Welcome!" width="300"/>
+
+</div>
+
+<div align="center">
+
+
+
+<i>CARA RUN TOOLS!</i> 
 ```
-# Cara run esceh
-+ git clone https://github.com/MrYoshiii/zv3
-                
-+ cd zv3                      
-+ git pull               
-+ python anjg.py             
+pkg install python
+```
+```
+pkg install git
+```
+```
+git clone https://github.com/MrYoshiii/face-crack
+```
+```
+cd face-crack
+```
+```
+git pull
+```
+```
+python run.py
+```
+
+<i>TERIMAKASIH DAN SEMOGA BERUNTUNG</i> 
+</div>
+
+<div align="center">
+
+
+</br>
+</br>

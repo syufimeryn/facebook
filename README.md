@@ -20,7 +20,7 @@ pkg install python
 pkg install git
 ```
 ```
-git clone https://github.com/MrYoshiii/face-crack
+git clone https://github.com/Yoshii-Dev/face-crack
 ```
 ```
 cd face-crack

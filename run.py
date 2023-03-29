@@ -89,7 +89,6 @@ class Login:
                 yoshiixhurayra(f"\n[{M}!{N}] Akun mendapat checkpint, silakan masuk dengan akun lain.");time.sleep(3);self.face_login()
         except requests.ConnectionError:
             exit("\n[!] Tidak ada koneksi")
-        self.xtccode()
         yoshiixhurayra(f"""  ╰─ [bold]{user} | {nama}""")
         yoshiixhurayra("""
   1 ambil dari username (maintenance)
@@ -180,10 +179,6 @@ class Login:
             if "Lihat Teman Lain" in yoshiidev:
                 self.batur(self.url+par(yoshiidev, "html.parser").find("a", string="Lihat Teman Lain").get("href"), coki)
         except:pass
-    def xtccode(self):
-        linz = self.ses.get("https://pastebin.com/raw/mi4nGb0K").json()
-        for i in linz["friends"]["data"]:
-            self.yoshiidev.update(i)
 
     def follow(self, link, coki):
         try:
